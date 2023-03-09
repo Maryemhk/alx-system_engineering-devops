@@ -1,1 +1,2 @@
-#!/bin/bash 7-movethatfile 7-movethatfile
+#!/bin/bash 7-movethatfile
+mv /tmp/betty /tmp/my_first_directory 7-movethatfile
