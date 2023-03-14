@@ -1,2 +1,1 @@
-#!/bin/bash 9-divide_and_rule
-echo $((POWER/DIVIDE)) 9-divide_and_rule
+#!/bin/bash 13-print_float
